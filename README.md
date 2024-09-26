@@ -15,9 +15,16 @@ A Python-based School Management System that allows users to manage students, in
 
 ### Prerequisites
 - Python 3.x
-- 
+  
 ### Steps
-1. Clone the repository:
+1. Set Up Repository:
+
+  Initialize a repository
+  
+  ```bash
+   git init
+
+  Clone the repository
 
    ```bash
    git clone https://github.com/Joudy-sb/SchoolManagementApp.git
