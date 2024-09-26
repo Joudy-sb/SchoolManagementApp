@@ -15,10 +15,19 @@ A Python-based School Management System that allows users to manage students, in
 
 ### Prerequisites
 - Python 3.x
-- [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager)
-
+- 
 ### Steps
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Joudy-sb/SchoolManagementApp.git
+
+2. Download requirements.txt:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run Tkinter App:
+
+   ```bash
+   python TkinterApp.py
