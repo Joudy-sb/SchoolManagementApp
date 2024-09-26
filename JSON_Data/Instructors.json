@@ -1,0 +1,21 @@
+[
+    {
+        "name": "iman",
+        "age": 30,
+        "email": "ig12@mail.aub.edu",
+        "instructorID": 202209090,
+        "assigned_courses": [
+            "eece 430L",
+            "eece 210"
+        ]
+    },
+    {
+        "name": "malek",
+        "age": 48,
+        "email": "mc148@mail.aub.edu",
+        "instructorID": 202207871,
+        "assigned_courses": [
+            "math 201"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "courseID": 12,
+        "courseName": "eece 430L",
+        "instructor": "ig12@mail.aub.edu",
+        "enrolledStudents": [
+            "jfs18@mail.aub.edu"
+        ]
+    },
+    {
+        "courseID": 892,
+        "courseName": "math 201",
+        "instructor": "mc148@mail.aub.edu",
+        "enrolledStudents": []
+    },
+    {
+        "courseID": 787,
+        "courseName": "chem 200",
+        "instructor": "",
+        "enrolledStudents": [
+            "lmk12@mail.aub.edu"
+        ]
+    },
+    {
+        "courseID": 902,
+        "courseName": "eece 210",
+        "instructor": "ig12@mail.aub.edu",
+        "enrolledStudents": [
+            "lmk12@mail.aub.edu",
+            "jfs18@mail.aub.edu"
+        ]
+    }
+]
