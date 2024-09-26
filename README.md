@@ -19,7 +19,7 @@ A Python-based School Management System that allows users to manage students, in
 ### Steps
 1. Initialize the repository
   
-  ```bash
+   ```bash
    git init
 
 2. Clone the repository
