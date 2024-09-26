@@ -17,24 +17,27 @@ A Python-based School Management System that allows users to manage students, in
 - Python 3.x
   
 ### Steps
-1. Set Up Repository:
-
-  Initialize a repository
+1. Initialize the repository
   
   ```bash
    git init
 
-  Clone the repository
+2. Clone the repository
 
    ```bash
    git clone https://github.com/Joudy-sb/SchoolManagementApp.git
 
-2. Download requirements.txt:
+3. Download requirements.txt:
 
    ```bash
    pip install -r requirements.txt
 
-3. Run Tkinter App:
+4. Run Tkinter App:
 
    ```bash
    python TkinterApp.py
+
+5. Run PyQt App:
+
+   ```bash
+   python PyQtApp.py
